@@ -31,3 +31,32 @@ Alarm-Mini-Project/
 └── requirements.txt # List of required libraries
 ```
 
+---
+
+## ⚙️ How to Run the Project
+
+### 1. Clone or Download the Repository
+```bash
+git clone https://github.com/Bharathyalagi/Alarm-Mini-Project.git
+cd Alarm-Mini-Project
+```
+### 2. (Optional) Create a Virtual Environment
+```bash
+python -m venv venv
+venv\Scripts\activate   # For Windows
+source venv/bin/activate  # For macOS/Linux
+```
+### 3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 4. Run the Alarm
+```bash
+Python alarm.py
+```
+---
+## NOTE: You can use other alarm sound but alarm must be in "MP3" Format and should be in the project folder/Directory 
+
+# Thank you
+
+
