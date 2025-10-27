@@ -30,6 +30,7 @@ Alarm-Mini-Project/
 ├── README.md # Project documentation
 └── requirements.txt # List of required libraries
 ```
+#### NOTE: You can use other alarm sound but alarm must be in "MP3" Format and should be in the project folder/Directory
 
 ---
 
@@ -57,10 +58,7 @@ Python alarm.py
 ---
 ## Author 
 **Bharath yalagi**
----
-
-#### NOTE: You can use other alarm sound but alarm must be in "MP3" Format and should be in the project folder/Directory 
-
+--- 
 
 # Thank you
 
