@@ -59,7 +59,7 @@ Python alarm.py
 **Bharath yalagi**
 ---
 
-## NOTE: You can use other alarm sound but alarm must be in "MP3" Format and should be in the project folder/Directory 
+#### NOTE: You can use other alarm sound but alarm must be in "MP3" Format and should be in the project folder/Directory 
 
 
 # Thank you
