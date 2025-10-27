@@ -1,7 +1,7 @@
 
 # ⏰ Alarm Mini Project
 
-##A simple Python-based alarm timer that lets you set a countdown in **minutes** and **seconds**, then plays an alert sound when time’s up.
+## A simple Python-based alarm timer that lets you set a countdown in **minutes** and **seconds**, then plays an alert sound when time’s up.
 
 ---
 
