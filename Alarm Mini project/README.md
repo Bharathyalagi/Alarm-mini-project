@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 What this project does
+###  What this project does
 - Takes user input for minutes and seconds.
 - Counts down in real time.
 - Displays the remaining time dynamically in the terminal.
@@ -13,7 +13,7 @@
 
 ---
 
-### 🧩 Concepts used
+###  Concepts used
 - **While loop** for continuous countdown.
 - **Time module** to pause 1 second between updates.
 - **Formatted strings (f-strings)** for neat time display.
@@ -21,7 +21,7 @@
 
 ---
 
-### 🗂 Folder Structure
+###  Folder Structure
 ```
 Alarm-Mini-Project/
 │
@@ -33,7 +33,7 @@ Alarm-Mini-Project/
 
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 ### 1. Clone or Download the Repository
 ```bash
