@@ -57,7 +57,7 @@ Python alarm.py
 ```
 ---
 ## Author 
-**Bharath yalagi**
+*Bharath yalagi*
 --- 
 
 # Thank you
